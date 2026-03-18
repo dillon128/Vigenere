@@ -1,4 +1,7 @@
-This repository contains some resources explaining how to break the Vigenere cipher. The contents are as follows:
+This repository contains some resources explaining how to break the Vigenere cipher using statistical methods and some simple SageMath code.
+(SageMath is an open source library of mathematical functions built in Python.)
+
+The contents are as follows:
 
 1. Vigenere.pdf. This is a set of slides explaining the background to the Vigenere ciper.
 2. VigenereCode.ipnyb. A selection of SageMath code showing how to break the Vigenere cipher. If you have an installation of SageMath you can upload this file directly.
