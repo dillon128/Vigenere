@@ -14,6 +14,10 @@ The contents are as follows:
   * Open another tab and navigate to https://sagecell.sagemath.org/
   * Select the text in the first text box of Vigenere.html and copy it
   * Paste the text into the text box in sagecell.sagemath.org
-  * Underneath the text you have copied into sagecell.sagemath.org, enter the command "CryptText = ShiftEncryption('WAKE UP CALL', 3)"
+  * Underneath the text you have copied into sagecell.sagemath.org, enter the commands
+  
+     CryptText = ShiftEncryption('WAKE UP CALL', 3)
+     CryptText
+     
   * Press the Evaluate button to see the result of your computation
   * The other commands can be executed in the same way, by entering them underneath the list of definitions you have copied from Vigenere.html
