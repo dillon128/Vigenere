@@ -17,6 +17,7 @@ The contents are as follows:
   * Underneath the text you have copied into sagecell.sagemath.org, enter the commands
   
      CryptText = ShiftEncryption('WAKE UP CALL', 3)
+     
      CryptText
      
   * Press the Evaluate button to see the result of your computation
