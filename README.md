@@ -5,7 +5,9 @@ The contents are as follows:
 
 1. Vigenere.pdf. This is a set of slides explaining the background to the Vigenere ciper.
 2. Vigenere.ipnyb. A selection of SageMath code showing how to break the Vigenere cipher. If you have an installation of SageMath you can upload this file directly.
-3. Vigenere.html. HTML file containing the same code. If you do not have SageMath installed, you can run the code using the following steps:
+3. Vigenere.html. HTML file containing the same code.
+
+If you do not have SageMath installed, you can run the code using the following steps:
   * Click on Vigenere.html
   * Click the button in the top right of the screen to download the raw code
   * Open a new tab in your browser
